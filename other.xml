@@ -106,4 +106,16 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://github.com/srinu1544/PointHub-master.git" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/srinu1544/PointHub-master.git" />
+      </list>
+    </option>
+  </component>
 </application>
