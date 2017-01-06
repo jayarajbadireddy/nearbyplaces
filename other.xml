@@ -47,7 +47,7 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
     <Configuration>
-      <option name="CVS_ROOT" value=":pserver:jayaraj@usb:https://github.com/jayarajbadireddy/mapstores.git" />
+      <option name="CVS_ROOT" value="https://github.com/srinu1544/PointHub-master.git" />
       <option name="PATH_TO_WORKING_FOLDER" value="" />
       <option name="PROXY_SETTINGS">
         <value>
